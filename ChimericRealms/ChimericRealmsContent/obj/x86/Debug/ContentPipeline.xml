@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Tile1.png</Source>
+      <Name>Images\Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Tile1.xnb</Output>
+      <Time>2012-11-14T12:50:10.7195254-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tile2.png</Source>
+      <Name>Images\Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Tile2.xnb</Output>
+      <Time>2012-11-14T12:50:08.754413-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tile3.png</Source>
+      <Name>Images\Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Tile3.xnb</Output>
+      <Time>2012-11-14T12:50:08.7404122-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tile4.png</Source>
+      <Name>Images\Tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Tile4.xnb</Output>
+      <Time>2012-11-14T12:50:08.7384121-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Alhambra.png</Source>
+      <Name>Images\Alhambra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Alhambra.xnb</Output>
+      <Time>2012-11-14T16:14:07.5244306-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bedlam.png</Source>
+      <Name>Images\Bedlam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Bedlam.xnb</Output>
+      <Time>2012-11-14T16:14:07.5254307-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Chapel.png</Source>
+      <Name>Images\Chapel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Chapel.xnb</Output>
+      <Time>2012-11-14T16:14:07.5264308-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\City.png</Source>
+      <Name>Images\City</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\City.xnb</Output>
+      <Time>2012-11-14T16:14:07.5264308-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fields.png</Source>
+      <Name>Images\Fields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Fields.xnb</Output>
+      <Time>2012-11-14T16:14:07.5274308-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Forest.png</Source>
+      <Name>Images\Forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Forest.xnb</Output>
+      <Time>2012-11-14T16:14:07.5284309-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Hills.png</Source>
+      <Name>Images\Hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Hills.xnb</Output>
+      <Time>2012-11-14T16:14:07.5284309-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Island.png</Source>
+      <Name>Images\Island</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\Island.xnb</Output>
+      <Time>2012-11-14T16:14:07.5294309-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\helmetfish.png</Source>
+      <Name>Images\helmetfish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\Images\helmetfish.xnb</Output>
+      <Time>2012-11-19T15:56:10.7454433-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealmsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealmsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Francois\Documents\Visual Studio 2010\Projects\ChimericRealms\ChimericRealms\ChimericRealms\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-02T15:26:51.0553498-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
