@@ -1,5 +1,5 @@
-talisman
-========
+Chimeric Realms
+===============
 
 A journey to the center of the Earth...
 
