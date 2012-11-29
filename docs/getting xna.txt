@@ -1,0 +1,18 @@
+Hello Friend!
+
+How to get XNA:
+
+1. Get Visual Studios C# Express
+
+a. Go here: http://www.microsoft.com/visualstudio/eng/downloads#d-2010-express
+b. Open Visual C# 2010 Express
+c. Install now!
+d. Wait a friggin long time
+e. Follow the instructions
+
+2. Get XNA
+
+a. Go here: http://www.microsoft.com/en-us/download/details.aspx?id=23714
+b. Download it
+c. Follow the instructions
+d. Hurray!
